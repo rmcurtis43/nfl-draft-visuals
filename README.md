@@ -14,12 +14,12 @@ This repo contains a collection of visuals built using data scaped from  [drafth
 ### Draft Performance Animation
 
 ***
-<img src="animations/overall_draft_year" align="center" width="800" />
+<img src="animations/overall_draft_year.gif" align="center" width="800" />
 ***
 
 
 ### Draft Performaance Animation
 
 ***
-<img src="images/QB_U" align="center" width="800" />
+<img src="images/QB_U.png" align="center" width="800" />
 ***
